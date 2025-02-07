@@ -1,0 +1,2 @@
+# Develop-a-Smart-Contract-for-Land-Registry
+VOIS FOR TECH PROJECT BASED INTERNSHIP IN BLOCK CHAIN
